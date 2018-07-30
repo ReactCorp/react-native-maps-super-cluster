@@ -98,13 +98,13 @@ const styles = StyleSheet.create({
   container: {
     borderWidth: 1,
     alignItems: 'center',
-    borderColor: '#65bc46',
+    borderColor: '#f7705e',
     justifyContent: 'center',
     backgroundColor: '#fff'
   },
   counterText: {
     fontSize: 16,
-    color: '#65bc46',
+    color: '#f7705e',
     fontWeight: '400'
   }
 })
